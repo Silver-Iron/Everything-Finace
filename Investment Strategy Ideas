@@ -1,0 +1,9 @@
+Is there a way to combine different quantitative and factor strategies with some benchmarks such as 
+This is to recommend a set of stocks that meet specific criterias.
+Say, a quant strategy, backtested to fit your goals and risk appetite, recommends a set of financial securities to invest to.
+But you also want to filter this stock choices to see whether they adhere to certain ESG principles or if the asset is shariah-compliant
+How does these benchmarks operate, and these are not just only market-cap weighted portfolios. There are now benchamrks that tracks ROE, volatility.
+Make the benchmark a criteria, then recommend a set of stocks that meets that criteria.
+Then after the selection, we want to know the optimal allocation to these financial assets.
+Maybe we can use another factor model to know that optimal strategy.
+That is how you make value added.
